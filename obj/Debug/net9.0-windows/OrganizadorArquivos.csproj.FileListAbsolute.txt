@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\bin\Debug\net9.0-windows\OrganizadorArquivos.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\bin\Debug\net9.0-windows\OrganizadorArquivos.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\bin\Debug\net9.0-windows\OrganizadorArquivos.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\bin\Debug\net9.0-windows\OrganizadorArquivos.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\bin\Debug\net9.0-windows\OrganizadorArquivos.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\obj\Debug\net9.0-windows\OrganizadorArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\obj\Debug\net9.0-windows\OrganizadorArquivos.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\obj\Debug\net9.0-windows\OrganizadorArquivos.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\obj\Debug\net9.0-windows\OrganizadorArquivos.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\obj\Debug\net9.0-windows\OrganizadorArquivos.sourcelink.json
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\obj\Debug\net9.0-windows\OrganizadorArquivos.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\obj\Debug\net9.0-windows\refint\OrganizadorArquivos.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\obj\Debug\net9.0-windows\OrganizadorArquivos.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\obj\Debug\net9.0-windows\OrganizadorArquivos.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\OrganizadorArquivos\obj\Debug\net9.0-windows\ref\OrganizadorArquivos.dll
