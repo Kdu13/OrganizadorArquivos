@@ -82,6 +82,7 @@ namespace OrganizadorArquivos
             }
 
             MessageBox.Show("Organização concluída!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            
             this.Close();
         }
     }

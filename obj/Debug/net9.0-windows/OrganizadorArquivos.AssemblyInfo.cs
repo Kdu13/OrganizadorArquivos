@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrganizadorArquivos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f254b7fc6b1f5fbddeda924b4d72a526500e972d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9562cc69dc60387728f78a9087b2dee6eede5c79")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrganizadorArquivos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrganizadorArquivos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
